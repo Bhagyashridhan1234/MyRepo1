@@ -4,6 +4,8 @@ public class test {
 	private void Syso() {
 		// TODO Auto-generated method stub
 System.out.println("hi fist test in git");
+		System.out.println("hi fist test in git");
+		
 	}
 
 }
